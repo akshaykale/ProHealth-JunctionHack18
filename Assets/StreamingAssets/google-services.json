@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "926651696153",
+    "firebase_url": "https://junction18-helsinki.firebaseio.com",
+    "project_id": "junction18-helsinki",
+    "storage_bucket": "junction18-helsinki.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:926651696153:android:83f6fe0101bc7563",
+        "android_client_info": {
+          "package_name": "com.akshaykale.junction18"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "926651696153-j6b9p6ti72b9eb7v3temdujc3fn9fplr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdkG9Wq_hFZSH7JkRZ7uE3kqXWoBaXyCw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
